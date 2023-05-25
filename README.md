@@ -1,4 +1,4 @@
-# Joke Generator
+# Joke Teller
 
 A mobile responsive page that generates random jokes from a Joke API. Speech generated from VoiceRSS API. Text assist added for web accessibility. Inspired by ZTM.
 
