@@ -5,7 +5,7 @@ A mobile responsive page that generates random jokes from Joke API. Speech gener
 
 ## Tech Stack
 
-**Front-End:** HTML, CSS, JavaScript, API
+**Front-End:** HTML, CSS, JavaScript, Joke API, VoiceRSS API
 
 ## Installation
 
